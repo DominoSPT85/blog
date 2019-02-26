@@ -1,24 +1,15 @@
-# README
+<<h1>Blog App</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p>This was a class project, and my first Ruby on Rails app. Some highlights:</p>
 
-Things you may want to cover:
+<ul>
+  <li>Mini Blog app</li>
+  <li>You can view all posts</li>
+  <li>You can create a new pose</li>
+  <li>You can edit an existing post</li>
+  <li>You can delete a post</li>
+  <li>Navbar that appears on every page</li>
+</ul>
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<p>Disclaimer: I haven't added any style to this yet. </p>
