@@ -1,4 +1,4 @@
-<<h1>Blog App</h1>
+<h1>Blog App</h1>
 
 <p>This was a class project, and my first Ruby on Rails app. Some highlights:</p>
 
